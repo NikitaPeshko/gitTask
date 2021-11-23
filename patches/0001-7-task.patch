@@ -1,0 +1,19 @@
+From 498df09687a0dee96edb1c88bfe2f66e81c87c81 Mon Sep 17 00:00:00 2001
+From: NikitaPeshko <n.peshko@mail.ru>
+Date: Tue, 23 Nov 2021 10:54:13 +0300
+Subject: [PATCH] 7 task
+
+---
+ firstFile.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index e69de29..3716aa8 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -0,0 +1,2 @@
++1fdbsnfsb
++2nvbxvncbxcn
+-- 
+2.34.0.windows.1
+
